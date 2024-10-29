@@ -1,0 +1,26 @@
+.home .navbar-transparent {
+  padding-top: 25px;
+}
+
+.home .navbar-transparent {
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 10px;
+    border-radius: 0;
+  }
+
+.home .navbar-absolute {
+  position: absolute;
+  width: 100%;
+  padding-top: 10px;
+  z-index: 1029;
+}
+
+.home .fl-page-header-wrap,
+.home .fl-page-nav-right .fl-page-header-wrap {
+	border-bottom: none;
+}
+
+.home .fl-page-nav-wrap,
+.home .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border: none;
+}
